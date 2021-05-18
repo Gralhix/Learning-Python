@@ -1,3 +1,6 @@
+#Basic "Guess the random number" game. Needs improvement as it still accepts strings and negative numbers as guesses which will cause an error.
+
+
 import random
 
 print("What's your name?")
