@@ -1,2 +1,2 @@
 # LearningPython
-Little bits of code written whilst learning python
+# Little bits of code written whilst learning python
