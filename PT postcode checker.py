@@ -1,6 +1,6 @@
 # This will request user for a Portuguese post code and then check if it meets the requirements.
 # Postcodes in Portugal have the following structure: 1234-123
-# 4 digits, followed by a dash and then 3 last digits.
+# The program will then look for 4 digits, followed by a dash and then 3 last digits.
 
            
 print("The following program will ask you for a Portuguese postcode to check if it follows the correct structure")
